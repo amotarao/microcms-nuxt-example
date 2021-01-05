@@ -1,0 +1,13 @@
+{
+  "name": "microcms-nuxt-example",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "nuxt": "^2.14.12"
+  }
+}
